@@ -1,0 +1,3 @@
+Tim 150
+James 400
+Bella 50
